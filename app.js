@@ -12,3 +12,5 @@ startBtn.addEventListener("click", function() {
     }, 1000)
 
 })
+
+function nextQuestion() {}
