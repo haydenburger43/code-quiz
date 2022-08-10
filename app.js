@@ -14,3 +14,7 @@ startBtn.addEventListener("click", function() {
 })
 
 function nextQuestion() {}
+
+function selectAnswer() {}
+
+function submitAnswer() {}
